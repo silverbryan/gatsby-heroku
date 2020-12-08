@@ -1,0 +1,31 @@
+body {
+    background-color: #F6F7FF;
+    font-family: 'Poppins', sans-serif;
+}
+
+.root {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 80%;
+}
+
+.txt-primary {
+    font-size: 2em;
+    text-align: center;
+    color: #3b3b3b;
+    margin: 2rem 0;
+}
+
+.btn-primary {
+    display: block;
+    border: none;
+    outline: none;
+    background-color: #4E61FF;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 30px;
+    margin: 0 auto;
+}
